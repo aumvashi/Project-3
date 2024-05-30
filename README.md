@@ -1,8 +1,6 @@
 # Project-3
 Book Management System
 
-# 106232052310523-4
-
 ## Book Record Managment 
 Server -> Storing Book Data, User Register, Subsctibers
 
