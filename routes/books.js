@@ -56,7 +56,7 @@ router.get("/:id", (req, res) => {
     Parameters: None
 */
 
-router.get("/issued/by-user", (req, res) => {
+router.get("/issued/user", (req, res) => {
   const usersWithTheIssuedBook = users.filter((each) => {
     if (each.issuedBook) return each;
   });
